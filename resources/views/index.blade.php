@@ -40,7 +40,8 @@ https://www.tooplate.com/view/2128-tween-agency
         <div class="container">
 
             <a href="index.html" class="navbar-brand">
-                <i class="bi-layers"></i> EB TECH
+                <img src="{{ asset('assets/images/ebt/logo.png') }}" class="img-fluid work-image" alt="" style="width: 35px">
+                East Blue Tech
             </a>
 
             <a href="#" class="custom-btn btn btn-lg d-lg-none ms-auto me-4">
@@ -59,32 +60,27 @@ https://www.tooplate.com/view/2128-tween-agency
                     </li>
 
                     <li class="nav-item">
-                        <a class="nav-link" href="#section_2">About</a>
+                        <a class="nav-link" href="#section_2">Tentang EB Tech</a>
                     </li>
 
                     <li class="nav-item">
-                        <a class="nav-link" href="#section_3">Services</a>
+                        <a class="nav-link" href="#section_3">Layanan EB Tech</a>
                     </li>
 
                     <li class="nav-item">
-                        <a class="nav-link" href="#section_4">Our Work</a>
+                        <a class="nav-link" href="#section_4">Project EB Tech</a>
                     </li>
 
                     <li class="nav-item">
-                        <a class="nav-link" href="#section_5">Pricing</a>
+                        <a class="nav-link" href="#section_5">Harga</a>
                     </li>
 
                     <li class="nav-item">
-                        <a class="nav-link" href="#section_6">Contact</a>
+                        <a class="nav-link" href="#section_6">Kontak</a>
                     </li>
                 </ul>
 
-                <div class="ms-auto d-none d-lg-block">
-                    <a href="#" class="custom-btn btn btn-lg">
-                        Download
-                        <i class="bi-download ms-2"></i>
-                    </a>
-                </div>
+
             </div>
         </div>
     </nav>
@@ -98,11 +94,12 @@ https://www.tooplate.com/view/2128-tween-agency
                     <div class="col-lg-8 col-12">
                         <div class="heroText">
                             <h1 class="text-white mb-lg-5 mb-4">We are ready to serve for your digital marketing</h1>
-
-                            <a href="https://www.youtube.com/watch?v=AYaHuZ4BB6Y" class="popup-youtube play-icon-wrap d-flex align-items-center">
-                                <i class="bi-play play-icon"></i>
-
-                                <small>1:49 Minutes</small>
+                            <!-- <div class="col-lg-4 d-flex align-items-center justify-content-center" data-aos="zoom-in" data-aos-delay="200">
+                                <a href="https://youtu.be/qgy7vEje5-w" class="venobox play-btn" data-vbtype="video" data-autoplay="true" target="_blank">teest</a>
+                            </div> -->
+                            <a href="https://youtu.be/qgy7vEje5-w" class="venobox play-btn play-icon-wrap d-flex align-items-center" data-autoplay="true" target="_blank">
+                                <i class=" bi-play play-icon"></i>
+                                <small>Yutube</small>
                             </a>
                         </div>
                     </div>
@@ -118,15 +115,15 @@ https://www.tooplate.com/view/2128-tween-agency
                 <div class="row">
 
                     <div class="col-lg-6 col-12">
-                        <h2 class="mb-5">Digital Happiness</h2>
+                        <h2 class="mb-5">East Blue Tech</h2>
                     </div>
 
                     <div class="col-lg-4 col-12 ms-lg-auto mb-5 mb-lg-0">
                         <nav>
                             <div class="nav nav-tabs" id="nav-tab" role="tablist">
-                                <button class="nav-link active" id="nav-intro-tab" data-bs-toggle="tab" data-bs-target="#nav-intro" type="button" role="tab" aria-controls="nav-intro" aria-selected="true">Introduction</button>
+                                <button class="nav-link active" id="nav-intro-tab" data-bs-toggle="tab" data-bs-target="#nav-intro" type="button" role="tab" aria-controls="nav-intro" aria-selected="true">Visi & Misi</button>
 
-                                <button class="nav-link" id="nav-profile-tab" data-bs-toggle="tab" data-bs-target="#nav-profile" type="button" role="tab" aria-controls="nav-profile" aria-selected="false">Profile</button>
+                                <button class="nav-link" id="nav-profile-tab" data-bs-toggle="tab" data-bs-target="#nav-profile" type="button" role="tab" aria-controls="nav-profile" aria-selected="false">profil</button>
 
                                 <button class="nav-link" id="nav-faq-tab" data-bs-toggle="tab" data-bs-target="#nav-faq" type="button" role="tab" aria-controls="nav-faq" aria-selected="false">FAQs</button>
                             </div>
@@ -138,11 +135,11 @@ https://www.tooplate.com/view/2128-tween-agency
                             <div class="tab-pane fade show active" id="nav-intro" role="tabpanel" aria-labelledby="nav-intro-tab">
                                 <div class="row">
                                     <div class="col-lg-6 col-12 mb-lg-0 mb-4">
-                                        <img src="images/webpage-browser-digital-icon-symbols-concept.jpg" class="img-fluid" alt="">
+                                        <img src="{{ asset('assets/images/webpage-browser-digital-icon-symbols-concept.jpg') }}" class="img-fluid" alt="">
                                     </div>
 
                                     <div class="col-lg-5 col-12 m-auto">
-                                        <h3 class="mb-3">Brand Creation</h3>
+                                        <h3 class="mb-3">Mari Tumbuh Bersama</h3>
 
                                         <p>We want you to be happy with our Tween Agency services. Our digital agency is ready to serve you to grow your business in a healthy way.</p>
 
@@ -156,9 +153,9 @@ https://www.tooplate.com/view/2128-tween-agency
                             <div class="tab-pane fade" id="nav-profile" role="tabpanel" aria-labelledby="nav-profile-tab">
                                 <div class="row">
                                     <div class="col-lg-5 col-12 m-auto">
-                                        <h3 class="mb-3">Marie Smarty, CEO</h3>
+                                        <h3 class="mb-3">EBT "EAST BLUE TECH"</h3>
 
-                                        <p>Our priority is your happiness working together with us. We guarantee you the best service quality from us. Feel free to talk to us via email, twitter, or linkedin.</p>
+                                        <p>Merupakan......... priority is your happiness working together with us. We guarantee you the best service quality from us. Feel free to talk to us via email, twitter, or linkedin.</p>
 
                                         <ul class="social-icon mt-lg-5 mt-3">
                                             <li class="me-3"><strong>Where to find?</strong></li>
@@ -172,7 +169,7 @@ https://www.tooplate.com/view/2128-tween-agency
                                     </div>
 
                                     <div class="col-lg-6 col-12 mt-lg-0 mt-4">
-                                        <img src="images/dream-about-working-corporation-became-true.jpg" class="img-fluid" alt="">
+                                        <img src="{{ asset('assets/images/dream-about-working-corporation-became-true.jpg') }}" class="img-fluid" alt="">
                                     </div>
                                 </div>
                             </div>
@@ -180,11 +177,11 @@ https://www.tooplate.com/view/2128-tween-agency
                             <div class="tab-pane fade" id="nav-faq" role="tabpanel" aria-labelledby="nav-faq-tab">
                                 <div class="row">
                                     <div class="col-lg-6 col-12 mb-lg-0 mb-4">
-                                        <img src="images/php-programming-html-coding-cyberspace-concept.jpg" class="img-fluid" alt="">
+                                        <img src="{{ asset('assets/images/php-programming-html-coding-cyberspace-concept.jpg') }}" class="img-fluid" alt="">
                                     </div>
 
                                     <div class="col-lg-5 col-12 m-auto">
-                                        <h3 class="mb-3">Frequenlty Asked Questions</h3>
+                                        <h3 class="mb-3">Pertanyaan yang Sering Diajukan</h3>
 
                                         <div class="accordion" id="accordionGeneral">
                                             <div class="accordion-item">
@@ -252,7 +249,7 @@ https://www.tooplate.com/view/2128-tween-agency
                     <h2 class="mb-5 text-center">Digital Services</h2>
 
                     <div class="col-lg-4 col-12 d-flex bg-primary p-0">
-                        <img src="images/services/undraw_Online_page_re_lhgx.svg" class="img-fluid services-image" alt="">
+                        <img src="{{ asset('assets/images/services/undraw_Online_page_re_lhgx.svg') }}" class="img-fluid services-image" alt="">
                     </div>
 
                     <div class="col-lg-4 col-12 p-0">
@@ -267,7 +264,7 @@ https://www.tooplate.com/view/2128-tween-agency
                     </div>
 
                     <div class="col-lg-4 col-12 d-flex bg-warning p-0">
-                        <img src="images/services/undraw_online_transactions_02ka.svg" class="img-fluid services-image" alt="">
+                        <img src="{{ asset('assets/images/services/undraw_online_transactions_02ka.svg') }}" class="img-fluid services-image" alt="">
                     </div>
 
                     <div class="col-lg-4 col-12 p-0 order-lg-0 order-sm-5">
@@ -283,7 +280,7 @@ https://www.tooplate.com/view/2128-tween-agency
                     </div>
 
                     <div class="col-lg-4 col-12 d-flex bg-success p-0 order-lg-0 order-sm-4">
-                        <img src="images/services/undraw_content_team_3epn.svg" class="img-fluid services-image" alt="">
+                        <img src="{{ asset('') }}assets/images/services/undraw_content_team_3epn.svg" class="img-fluid services-image" alt="">
                     </div>
 
                     <div class="col-lg-4 col-12 p-0">
@@ -312,8 +309,8 @@ https://www.tooplate.com/view/2128-tween-agency
                     <div class="col-lg-4 col-12">
                         <div class="work-thumb mb-4">
                             <div class="work-image-wrap">
-                                <a href="images/work/anthony-espinosa-pYQSM-p_0_c-unsplash.jpg" class="image-popup">
-                                    <img src="images/work/anthony-espinosa-pYQSM-p_0_c-unsplash.jpg" class="img-fluid work-image" alt="">
+                                <a href="{{ asset('assets/images/work/anthony-espinosa-pYQSM-p_0_c-unsplash.jpg') }}" class="image-popup">
+                                    <img src="{{ asset('assets/images/work/anthony-espinosa-pYQSM-p_0_c-unsplash.jpg') }}" class="img-fluid work-image" alt="">
                                 </a>
                             </div>
 
@@ -326,8 +323,8 @@ https://www.tooplate.com/view/2128-tween-agency
 
                         <div class="work-thumb mb-4">
                             <div class="work-image-wrap">
-                                <a href="images/work/samantha-gades-lf2pD--wIUA-unsplash.jpg" class="image-popup">
-                                    <img src="images/work/samantha-gades-lf2pD--wIUA-unsplash.jpg" class="img-fluid work-image" alt="">
+                                <a href="{{ asset('assets/images/work/samantha-gades-lf2pD--wIUA-unsplash.jpg') }}" class="image-popup">
+                                    <img src="{{ asset('assets/images/work/samantha-gades-lf2pD--wIUA-unsplash.jpg') }}" class="img-fluid work-image" alt="">
                                 </a>
                             </div>
 
@@ -342,8 +339,8 @@ https://www.tooplate.com/view/2128-tween-agency
                     <div class="col-lg-4 col-12">
                         <div class="work-thumb mb-4">
                             <div class="work-image-wrap">
-                                <a href="images/work/business-chart-visual-graphics-report-concept.jpg" class="image-popup">
-                                    <img src="images/work/business-chart-visual-graphics-report-concept.jpg" class="img-fluid work-image" alt="">
+                                <a href="{{ asset('assets/images/work/business-chart-visual-graphics-report-concept.jpg') }}" class="image-popup">
+                                    <img src="{{ asset('assets/images/work/business-chart-visual-graphics-report-concept.jpg') }}" class="img-fluid work-image" alt="">
                                 </a>
                             </div>
 
@@ -356,8 +353,8 @@ https://www.tooplate.com/view/2128-tween-agency
 
                         <div class="work-thumb mb-4">
                             <div class="work-image-wrap">
-                                <a href="images/work/tyler-nix-HmVQh_EQJhY-unsplash.jpg" class="image-popup">
-                                    <img src="images/work/tyler-nix-HmVQh_EQJhY-unsplash.jpg" class="img-fluid work-image" alt="">
+                                <a href="{{ asset('assets/images/work/tyler-nix-HmVQh_EQJhY-unsplash.jpg') }}" class="image-popup">
+                                    <img src="{{ asset('assets/images/work/tyler-nix-HmVQh_EQJhY-unsplash.jpg') }}" class="img-fluid work-image" alt="">
                                 </a>
                             </div>
 
@@ -374,8 +371,8 @@ https://www.tooplate.com/view/2128-tween-agency
                     <div class="col-lg-4 col-12">
                         <div class="work-thumb mb-4">
                             <div class="work-image-wrap">
-                                <a href="images/work/mos-sukjaroenkraisri-jz8AmJDyhig-unsplash.jpg" class="image-popup">
-                                    <img src="images/work/mos-sukjaroenkraisri-jz8AmJDyhig-unsplash.jpg" class="img-fluid work-image" alt="">
+                                <a href="{{ asset('assets/images/work/mos-sukjaroenkraisri-jz8AmJDyhig-unsplash.jpg') }}" class="image-popup">
+                                    <img src="{{ asset('assets/images/work/mos-sukjaroenkraisri-jz8AmJDyhig-unsplash.jpg') }}" class="img-fluid work-image" alt="">
                                 </a>
                             </div>
 
