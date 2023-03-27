@@ -7,7 +7,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Tween Digital Agency HTML Template</title>
+    <title>East Blue Tech</title>
 
     <!-- CSS FILES -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -39,15 +39,15 @@ https://www.tooplate.com/view/2128-tween-agency
     <nav class="navbar fixed-top navbar-expand-lg">
         <div class="container">
 
-            <a href="index.html" class="navbar-brand">
-                <img src="{{ asset('assets/images/ebt/EBTECH1.png') }}" class="img-fluid work-image" alt="" style="width: 35px">
+            <a href="/" class="navbar-brand">
+                <img src="{{ asset('assets/images/ebt/EBTECH1.png') }}" class="img-fluid work-image" alt="east blue tech" style="width: 70px">
                 East Blue Tech
             </a>
 
-            <a href="#" class="custom-btn btn btn-lg d-lg-none ms-auto me-4">
+            {{-- <a href="#" class="custom-btn btn btn-lg d-lg-none ms-auto me-4">
                 Download
                 <i class="bi-download ms-2"></i>
-            </a>
+            </a> --}}
 
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
@@ -71,9 +71,9 @@ https://www.tooplate.com/view/2128-tween-agency
                         <a class="nav-link" href="#section_4">Project EB Tech</a>
                     </li>
 
-                    <li class="nav-item">
+                    {{-- <li class="nav-item">
                         <a class="nav-link" href="#section_5">Harga</a>
-                    </li>
+                    </li> --}}
 
                     <li class="nav-item">
                         <a class="nav-link" href="#section_6">Kontak</a>
@@ -93,14 +93,14 @@ https://www.tooplate.com/view/2128-tween-agency
 
                     <div class="col-lg-8 col-12">
                         <div class="heroText">
-                            <h1 class="text-white mb-lg-5 mb-4">We are ready to serve for your digital marketing</h1>
+                            <h1 class="text-white mb-lg-5 mb-4">Berkembang dan Membangun bersama untuk Masa Depan Lebih Baik</h1>
                             <!-- <div class="col-lg-4 d-flex align-items-center justify-content-center" data-aos="zoom-in" data-aos-delay="200">
                                 <a href="https://youtu.be/qgy7vEje5-w" class="venobox play-btn" data-vbtype="video" data-autoplay="true" target="_blank">teest</a>
                             </div> -->
-                            <a href="https://youtu.be/qgy7vEje5-w" class="venobox play-btn play-icon-wrap d-flex align-items-center" data-autoplay="true" target="_blank">
+                            {{-- <a href="https://youtu.be/qgy7vEje5-w" class="venobox play-btn play-icon-wrap d-flex align-items-center" data-autoplay="true" target="_blank">
                                 <i class=" bi-play play-icon"></i>
                                 <small>Yutube</small>
-                            </a>
+                            </a> --}}
                         </div>
                     </div>
 
@@ -135,7 +135,7 @@ https://www.tooplate.com/view/2128-tween-agency
                             <div class="tab-pane fade show active" id="nav-intro" role="tabpanel" aria-labelledby="nav-intro-tab">
                                 <div class="row">
                                     <div class="col-lg-6 col-12 mb-lg-0 mb-4">
-                                        <img src="{{ asset('assets/images/23.jpg') }}" class="img-fluid" alt="">
+                                        <img src="{{ asset('assets/images/23.jpg') }}" class="img-fluid" alt="east blue tech">
                                     </div>
 
                                     <div class="col-lg-5 col-12 m-auto">
@@ -153,7 +153,7 @@ https://www.tooplate.com/view/2128-tween-agency
                                     <div class="col-lg-5 col-12 m-auto">
                                         <h3 class="mb-3">EBT "EAST BLUE TECH"</h3>
 
-                                        <p align="justify" >East Blue Tech adalah perusahaan start up yang berfokus pada pengembangan teknologi dan jasa inovatif untuk membantu perusahaan meningkatkan efisiensi, memaksimalkan profitabilitas, dan mempercepat pertumbuhan bisnis. Kami memiliki tim yang terdiri dari ahli teknologi dan bisnis yang berdedikasi untuk menciptakan solusi kustom yang dirancang sesuai kebutuhan spesifik perusahaan kami.</p>
+                                        <p align="justify">East Blue Tech adalah perusahaan start up yang berfokus pada pengembangan teknologi dan jasa inovatif untuk membantu perusahaan meningkatkan efisiensi, memaksimalkan profitabilitas, dan mempercepat pertumbuhan bisnis. Kami memiliki tim yang terdiri dari ahli teknologi dan bisnis yang berdedikasi untuk menciptakan solusi kustom yang dirancang sesuai kebutuhan spesifik perusahaan kami.</p>
 
                                         <ul class="social-icon mt-lg-5 mt-3">
                                             <li class="me-3"><strong>Di mana mencarinya?</strong></li>
@@ -163,11 +163,13 @@ https://www.tooplate.com/view/2128-tween-agency
                                             <li><a target="_blank" href="https://www.facebook.com/ebtTekno" class="social-icon-link bi-facebook"></a></li>
 
                                             <li><a href="mailto:eastbluetech@gmail.com" class="social-icon-link bi-envelope"></a></li>
+
+                                            <li><a href="https://wa.me/6288298864380" class="social-icon-link bi-whatsapp"></a></li>
                                         </ul>
                                     </div>
 
                                     <div class="col-lg-6 col-12 mt-lg-0 mt-4">
-                                        <img src="{{ asset('assets/images/EBT.jpg') }}" class="img-fluid" alt="">
+                                        <img src="{{ asset('assets/images/EBT.jpg') }}" class="img-fluid" alt="east blue tech">
                                     </div>
                                 </div>
                             </div>
@@ -175,7 +177,7 @@ https://www.tooplate.com/view/2128-tween-agency
                             <div class="tab-pane fade" id="nav-faq" role="tabpanel" aria-labelledby="nav-faq-tab">
                                 <div class="row">
                                     <div class="col-lg-6 col-12 mb-lg-0 mb-4">
-                                        <img src="{{ asset('assets/images/1.jpeg') }}" class="img-fluid" alt="">
+                                        <img src="{{ asset('assets/images/1.jpeg') }}" class="img-fluid" alt="east blue tech">
                                     </div>
 
                                     <div class="col-lg-5 col-12 m-auto">
@@ -225,39 +227,39 @@ https://www.tooplate.com/view/2128-tween-agency
 
         <section class="services section-padding" id="section_3">
             <div class="container">
-                
+
                 <h2 class="text-center">Layanan Kami</h2>
                 <p class="text-center"><b>Layanan yang kita tawarkan untuk anda</p>
-                    
-                    <div class="row">
+
+                <div class="row">
                     <div class="col-lg-6 col-12  bg-success p-0">
                         <div class="services-info custom-icon-top paddingText bg-success">
                             <h4 class="text-white">Mobile Apps</h4>
-                            <img src="{{ asset('assets/images/services/mobile_platform.svg') }}" class="img-fluid services-image">                  
-                            <a class="custom-btn custom-bg-dark btn" href="#">Learn More</a>
+                            <img src="{{ asset('assets/images/services/mobile_platform.svg') }}" class="img-fluid services-image">
+                            {{-- <a class="custom-btn custom-bg-dark btn" href="#">Learn More</a> --}}
                         </div>
                     </div>
-                    
+
                     <div class="col-lg-6 col-12 bg-secondary p-0">
                         <div class="services-info custom-icon-top paddingText bg-secondary ">
                             <h4 class="text-white">Website Apps</h4>
-                            <img src="{{ asset('assets/images/services/web_interface.svg') }}" class="img-fluid services-image" alt="">
-                              <a class="custom-btn custom-bg-dark btn" href="#">Learn More</a>
+                            <img src="{{ asset('assets/images/services/web_interface.svg') }}" class="img-fluid services-image" alt="east blue tech">
+                            {{-- <a class="custom-btn custom-bg-dark btn" href="#">Learn More</a> --}}
                         </div>
                     </div>
                     <div class="col-lg-6 col-12  bg-warning p-0">
                         <div class="services-info custom-icon-top paddingText bg-warning ">
                             <h4 class="text-white">AI</h4>
-                            <img src="{{ asset('assets/images/services/artificial_intelligence.svg') }}" class="img-fluid services-image" alt="">
-                            <a class="custom-btn custom-bg-dark btn" href="#">Learn More</a>
+                            <img src="{{ asset('assets/images/services/artificial_intelligence.svg') }}" class="img-fluid services-image" alt="east blue tech">
+                            {{-- <a class="custom-btn custom-bg-dark btn" href="#">Learn More</a> --}}
                         </div>
                     </div>
                     <div class="col-lg-6 col-12  bg-danger p-0">
                         <div class="services-info custom-icon-right paddingText bg-danger order-lg-0 order-sm-2">
                             <h4 class="text-white">Desain Grafis</h4>
-                            <img src="{{ asset('assets/images/services/ux_design.svg') }}" class="img-fluid services-image" alt="">
+                            <img src="{{ asset('assets/images/services/ux_design.svg') }}" class="img-fluid services-image" alt="east blue tech">
 
-                            <a class="custom-btn custom-bg-dark btn" href="#">Learn More</a>
+                            {{-- <a class="custom-btn custom-bg-dark btn" href="#">Learn More</a> --}}
                         </div>
                     </div>
                 </div>
@@ -275,7 +277,7 @@ https://www.tooplate.com/view/2128-tween-agency
                         <div class="work-thumb mb-4">
                             <div class="work-image-wrap">
                                 <a href="{{ asset('assets/images/work/1.jpg') }}" class="image-popup">
-                                    <img src="{{ asset('assets/images/work/1.jpg') }}" class="img-fluid work-image" alt="">
+                                    <img src="{{ asset('assets/images/work/1.jpg') }}" class="img-fluid work-image" alt="east blue tech">
                                 </a>
                             </div>
 
@@ -289,7 +291,7 @@ https://www.tooplate.com/view/2128-tween-agency
                         <div class="work-thumb mb-4">
                             <div class="work-image-wrap">
                                 <a href="{{ asset('assets/images/work/2.jpg') }}" class="image-popup">
-                                    <img src="{{ asset('assets/images/work/2.jpg') }}" class="img-fluid work-image" alt="">
+                                    <img src="{{ asset('assets/images/work/2.jpg') }}" class="img-fluid work-image" alt="east blue tech">
                                 </a>
                             </div>
 
@@ -302,7 +304,7 @@ https://www.tooplate.com/view/2128-tween-agency
                         <div class="work-thumb mb-4">
                             <div class="work-image-wrap">
                                 <a href="{{ asset('assets/images/work/5.jpg') }}" class="image-popup">
-                                    <img src="{{ asset('assets/images/work/5.jpg') }}" class="img-fluid work-image" alt="">
+                                    <img src="{{ asset('assets/images/work/5.jpg') }}" class="img-fluid work-image" alt="east blue tech">
                                 </a>
                             </div>
 
@@ -315,7 +317,7 @@ https://www.tooplate.com/view/2128-tween-agency
                         <div class="work-thumb mb-4">
                             <div class="work-image-wrap">
                                 <a href="{{ asset('assets/images/work/10.jpg') }}" class="image-popup">
-                                    <img src="{{ asset('assets/images/work/10.jpg') }}" class="img-fluid work-image" alt="">
+                                    <img src="{{ asset('assets/images/work/10.jpg') }}" class="img-fluid work-image" alt="east blue tech">
                                 </a>
                             </div>
 
@@ -331,7 +333,7 @@ https://www.tooplate.com/view/2128-tween-agency
                         <div class="work-thumb mb-4">
                             <div class="work-image-wrap">
                                 <a href="{{ asset('assets/images/work/3.jpg') }}" class="image-popup">
-                                    <img src="{{ asset('assets/images/work/3.jpg') }}" class="img-fluid work-image" alt="">
+                                    <img src="{{ asset('assets/images/work/3.jpg') }}" class="img-fluid work-image" alt="east blue tech">
                                 </a>
                             </div>
 
@@ -345,7 +347,7 @@ https://www.tooplate.com/view/2128-tween-agency
                         <div class="work-thumb mb-4">
                             <div class="work-image-wrap">
                                 <a href="{{ asset('assets/images/work/4.jpg') }}" class="image-popup">
-                                    <img src="{{ asset('assets/images/work/4.jpg') }}" class="img-fluid work-image" alt="">
+                                    <img src="{{ asset('assets/images/work/4.jpg') }}" class="img-fluid work-image" alt="east blue tech">
                                 </a>
                             </div>
 
@@ -360,12 +362,12 @@ https://www.tooplate.com/view/2128-tween-agency
                         <div class="work-thumb mb-4">
                             <div class="work-image-wrap">
                                 <a href="{{ asset('assets/images/work/6.jpg') }}" class="image-popup">
-                                    <img src="{{ asset('assets/images/work/6.jpg') }}" class="img-fluid work-image" alt="">
+                                    <img src="{{ asset('assets/images/work/6.jpg') }}" class="img-fluid work-image" alt="east blue tech">
                                 </a>
                             </div>
 
                             <div class="work-text-info">
-                               
+
 
                                 <small class="work-tag bg-white shadow-lg">Website</small>
 
@@ -376,12 +378,12 @@ https://www.tooplate.com/view/2128-tween-agency
                         <div class="work-thumb mb-4">
                             <div class="work-image-wrap">
                                 <a href="{{ asset('assets/images/work/11.jpg') }}" class="image-popup">
-                                    <img src="{{ asset('assets/images/work/11.jpg') }}" class="img-fluid work-image" alt="">
+                                    <img src="{{ asset('assets/images/work/11.jpg') }}" class="img-fluid work-image" alt="east blue tech">
                                 </a>
                             </div>
 
                             <div class="work-text-info">
-                                
+
                                 <small class="work-tag bg-white shadow-lg">Website</small>
 
                                 <h4 class="work-title">PMB</h4>
@@ -393,7 +395,7 @@ https://www.tooplate.com/view/2128-tween-agency
                         <div class="work-thumb mb-4">
                             <div class="work-image-wrap">
                                 <a href="{{ asset('assets/images/work/7.jpg') }}" class="image-popup">
-                                    <img src="{{ asset('assets/images/work/7.jpg') }}" class="img-fluid work-image" alt="">
+                                    <img src="{{ asset('assets/images/work/7.jpg') }}" class="img-fluid work-image" alt="east blue tech">
                                 </a>
                             </div>
 
@@ -407,7 +409,7 @@ https://www.tooplate.com/view/2128-tween-agency
                         <div class="work-thumb mb-4">
                             <div class="work-image-wrap">
                                 <a href="{{ asset('assets/images/work/8.png') }}" class="image-popup">
-                                    <img src="{{ asset('assets/images/work/8.png') }}" class="img-fluid work-image" alt="">
+                                    <img src="{{ asset('assets/images/work/8.png') }}" class="img-fluid work-image" alt="east blue tech">
                                 </a>
                             </div>
 
@@ -423,7 +425,7 @@ https://www.tooplate.com/view/2128-tween-agency
                         <div class="work-thumb mb-4">
                             <div class="work-image-wrap">
                                 <a href="{{ asset('assets/images/work/9.jpg') }}" class="image-popup">
-                                    <img src="{{ asset('assets/images/work/9.jpg') }}" class="img-fluid work-image" alt="">
+                                    <img src="{{ asset('assets/images/work/9.jpg') }}" class="img-fluid work-image" alt="east blue tech">
                                 </a>
                             </div>
 
@@ -433,11 +435,11 @@ https://www.tooplate.com/view/2128-tween-agency
                                 <h4 class="work-title">Kriptografi</h4>
                             </div>
                         </div>
-                        
+
                         <div class="work-thumb mb-4">
                             <div class="work-image-wrap">
                                 <a href="{{ asset('assets/images/work/12.jpg') }}" class="image-popup">
-                                    <img src="{{ asset('assets/images/work/12.jpg') }}" class="img-fluid work-image" alt="">
+                                    <img src="{{ asset('assets/images/work/12.jpg') }}" class="img-fluid work-image" alt="east blue tech">
                                 </a>
                             </div>
 
@@ -449,13 +451,13 @@ https://www.tooplate.com/view/2128-tween-agency
                         </div>
                     </div>
 
-                    
+
 
                 </div>
             </div>
         </section>
 
-        <section class="pricing section-padding" id="section_5">
+        {{-- <section class="pricing section-padding" id="section_5">
             <div class="container">
                 <div class="row">
 
@@ -532,13 +534,13 @@ https://www.tooplate.com/view/2128-tween-agency
                 </div>
             </div>
             <div class="overlay dark-overlay"></div>
-        </section>
+        </section> --}}
 
         <section class="section-padding" id="section_6">
             <div class="container">
                 <div class="row">
 
-                    <div class="col-lg-8 col-md-10 col-12 mx-auto">
+                    {{-- <div class="col-lg-8 col-md-10 col-12 mx-auto">
                         <h2 class="mb-4 text-center">Let's chat</h2>
 
                         <form class="custom-form" role="form" action="" method="post">
@@ -576,7 +578,7 @@ https://www.tooplate.com/view/2128-tween-agency
 
                             </div>
                         </form>
-                    </div>
+                    </div> --}}
 
                 </div>
             </div>
@@ -615,7 +617,6 @@ https://www.tooplate.com/view/2128-tween-agency
                         <div class="col-lg-6 col-12">
                             <p class="copyright-text tooplate-link">Copyright © 2023 .
                         </div>
-
                         <div class="col-lg-3 col-12 ms-auto">
                             <ul class="social-icon">
                                 <li><a target="_blank" href="https://facebook.com/ebtTekno" class="social-icon-link bi-facebook"></a></li>
@@ -626,7 +627,8 @@ https://www.tooplate.com/view/2128-tween-agency
 
                                 <li><a target="_blank" href="https://wa.me/6288298864380" class="social-icon-link bi-whatsapp"></a></li>
 
-                                <li><a href="#" class="social-icon-link bi-youtube"></a></li>
+                                < <li><a href="mailto:eastbluetech@gmail.com" class="social-icon-link bi-envelope"></a></li>
+
                             </ul>
                         </div>
                     </div>
@@ -647,7 +649,9 @@ https://www.tooplate.com/view/2128-tween-agency
     <script src="{{ asset('assets/js/custom.js') }}"></script>
     <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
     <script>
-  AOS.init({duration: 1200});
-</script>
+        AOS.init({
+            duration: 1200
+        });
+    </script>
 </body>
 </html>
