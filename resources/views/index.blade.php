@@ -40,7 +40,7 @@ https://www.tooplate.com/view/2128-tween-agency
         <div class="container">
 
             <a href="index.html" class="navbar-brand">
-                <img src="{{ asset('assets/images/ebt/logo.png') }}" class="img-fluid work-image" alt="" style="width: 35px">
+                <img src="{{ asset('assets/images/ebt/EBTECH1.png') }}" class="img-fluid work-image" alt="" style="width: 35px">
                 East Blue Tech
             </a>
 
@@ -121,9 +121,9 @@ https://www.tooplate.com/view/2128-tween-agency
                     <div class="col-lg-4 col-12 ms-lg-auto mb-5 mb-lg-0">
                         <nav>
                             <div class="nav nav-tabs" id="nav-tab" role="tablist">
-                                <button class="nav-link active" id="nav-intro-tab" data-bs-toggle="tab" data-bs-target="#nav-intro" type="button" role="tab" aria-controls="nav-intro" aria-selected="true">Visi & Misi</button>
+                                <button class="nav-link active" id="nav-intro-tab" data-bs-toggle="tab" data-bs-target="#nav-intro" type="button" role="tab" aria-controls="nav-intro" aria-selected="true">Visi & Misi Perusahaan</button>
 
-                                <button class="nav-link" id="nav-profile-tab" data-bs-toggle="tab" data-bs-target="#nav-profile" type="button" role="tab" aria-controls="nav-profile" aria-selected="false">profil</button>
+                                <button class="nav-link" id="nav-profile-tab" data-bs-toggle="tab" data-bs-target="#nav-profile" type="button" role="tab" aria-controls="nav-profile" aria-selected="false">Profil</button>
 
                                 <button class="nav-link" id="nav-faq-tab" data-bs-toggle="tab" data-bs-target="#nav-faq" type="button" role="tab" aria-controls="nav-faq" aria-selected="false">FAQs</button>
                             </div>
@@ -135,17 +135,15 @@ https://www.tooplate.com/view/2128-tween-agency
                             <div class="tab-pane fade show active" id="nav-intro" role="tabpanel" aria-labelledby="nav-intro-tab">
                                 <div class="row">
                                     <div class="col-lg-6 col-12 mb-lg-0 mb-4">
-                                        <img src="{{ asset('assets/images/webpage-browser-digital-icon-symbols-concept.jpg') }}" class="img-fluid" alt="">
+                                        <img src="{{ asset('assets/images/23.jpg') }}" class="img-fluid" alt="">
                                     </div>
 
                                     <div class="col-lg-5 col-12 m-auto">
                                         <h3 class="mb-3">Mari Tumbuh Bersama</h3>
 
-                                        <p>We want you to be happy with our Tween Agency services. Our digital agency is ready to serve you to grow your business in a healthy way.</p>
+                                        <p align="justify">Visi kami adalah untuk menjadi pemimpin di pasar solusi teknologi dan jasa inovatif, dan menjadi mitra pilihan bagi perusahaan-perusahaan besar di seluruh dunia.</p>
 
-                                        <p>This is Bootstrap 5 HTML template for your website provided by <a rel="nofollow" href="https://www.tooplate.com/" target="_blank">Tooplate</a>. You can download, edit and use this layout for your company website.</p>
-
-                                        <p>Image credits go to <a rel="nofollow" href="https://freepik.com/" target="_blank">FreePik</a> and <a rel="nofollow" href="https://unsplash.com/" target="_blank">Unsplash</a> for images used in this template. We really appreciate these stock image websites for providing free photos to everyone.</p>
+                                        <p align="justify">Misi kami adalah untuk terus menciptakan solusi teknologi dan jasa yang menghasilkan nilai bagi klien kami dan membantu mereka mencapai tujuan bisnis mereka.</p>
                                     </div>
                                 </div>
                             </div>
@@ -155,21 +153,21 @@ https://www.tooplate.com/view/2128-tween-agency
                                     <div class="col-lg-5 col-12 m-auto">
                                         <h3 class="mb-3">EBT "EAST BLUE TECH"</h3>
 
-                                        <p>Merupakan......... priority is your happiness working together with us. We guarantee you the best service quality from us. Feel free to talk to us via email, twitter, or linkedin.</p>
+                                        <p align="justify" >East Blue Tech adalah perusahaan start up yang berfokus pada pengembangan teknologi dan jasa inovatif untuk membantu perusahaan meningkatkan efisiensi, memaksimalkan profitabilitas, dan mempercepat pertumbuhan bisnis. Kami memiliki tim yang terdiri dari ahli teknologi dan bisnis yang berdedikasi untuk menciptakan solusi kustom yang dirancang sesuai kebutuhan spesifik perusahaan kami.</p>
 
                                         <ul class="social-icon mt-lg-5 mt-3">
-                                            <li class="me-3"><strong>Where to find?</strong></li>
+                                            <li class="me-3"><strong>Di mana mencarinya?</strong></li>
 
-                                            <li><a href="https://twitter.com/search?q=tooplate" class="social-icon-link bi-twitter"></a></li>
+                                            <li><a target="_blank" href="https://www.instagram.com/eastbluetech_/" class="social-icon-link bi-instagram"></a></li>
 
-                                            <li><a href="#" class="social-icon-link bi-linkedin"></a></li>
+                                            <li><a target="_blank" href="https://www.facebook.com/ebtTekno" class="social-icon-link bi-facebook"></a></li>
 
-                                            <li><a href="#" class="social-icon-link bi-envelope"></a></li>
+                                            <li><a href="mailto:eastbluetech@gmail.com" class="social-icon-link bi-envelope"></a></li>
                                         </ul>
                                     </div>
 
                                     <div class="col-lg-6 col-12 mt-lg-0 mt-4">
-                                        <img src="{{ asset('assets/images/dream-about-working-corporation-became-true.jpg') }}" class="img-fluid" alt="">
+                                        <img src="{{ asset('assets/images/EBT.jpg') }}" class="img-fluid" alt="">
                                     </div>
                                 </div>
                             </div>
@@ -177,7 +175,7 @@ https://www.tooplate.com/view/2128-tween-agency
                             <div class="tab-pane fade" id="nav-faq" role="tabpanel" aria-labelledby="nav-faq-tab">
                                 <div class="row">
                                     <div class="col-lg-6 col-12 mb-lg-0 mb-4">
-                                        <img src="{{ asset('assets/images/php-programming-html-coding-cyberspace-concept.jpg') }}" class="img-fluid" alt="">
+                                        <img src="{{ asset('assets/images/1.jpeg') }}" class="img-fluid" alt="">
                                     </div>
 
                                     <div class="col-lg-5 col-12 m-auto">
@@ -185,33 +183,16 @@ https://www.tooplate.com/view/2128-tween-agency
 
                                         <div class="accordion" id="accordionGeneral">
                                             <div class="accordion-item">
-                                                <h2 class="accordion-header" id="headingOne">
-                                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#accordionGeneralOne" aria-expanded="true" aria-controls="accordionGeneralOne">
-                                                        What is Tween Agency?
-                                                    </button>
-                                                </h2>
-
-                                                <div id="accordionGeneralOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionGeneral">
-
-                                                    <div class="accordion-body">
-                                                        <p class="large-paragraph"><strong>Tween Agency</strong> is free HTML template powered by Bootstrap 5 CSS framework. This means you can use all standard CSS classes provided by Bootstrap version 5 to customize your CSS layout.</p>
-
-                                                        <p class="large-paragraph">You are allowed to use it for your clients. You are not allowed to redistribute this template ZIP file on any other template website. Please <a href="https://www.tooplate.com/contact" target="_blank"><strong>contact Tooplate</strong></a> for more info.</p>
-                                                    </div>
-                                                </div>
-                                            </div>
-
-                                            <div class="accordion-item">
                                                 <h2 class="accordion-header" id="headingTwo">
                                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#accordionGeneralTwo" aria-expanded="false" aria-controls="accordionGeneralTwo">
-                                                        What are available services?
+                                                        Apa saja layanan yang tersedia?
                                                     </button>
                                                 </h2>
 
                                                 <div id="accordionGeneralTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionGeneral">
 
                                                     <div class="accordion-body">
-                                                        <p class="large-paragraph">We provide full digital marketing services for all various aspects of your company's web presence and social medias. You have 100% peace of mind for your company by working with us.</p>
+                                                        <p class="large-paragraph">Kami menyediakan layanan pemasaran digital lengkap untuk berbagai aspek kehadiran web dan media sosial perusahaan Anda. Anda memiliki ketenangan pikiran 100% untuk perusahaan Anda dengan bekerja bersama kami.</p>
                                                     </div>
                                                 </div>
                                             </div>
@@ -219,14 +200,14 @@ https://www.tooplate.com/view/2128-tween-agency
                                             <div class="accordion-item">
                                                 <h2 class="accordion-header" id="headingThree">
                                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#accordionGeneralThree" aria-expanded="false" aria-controls="accordionGeneralThree">
-                                                        How many successful projects?
+                                                        Berapa banyak proyek yang berhasil?
                                                     </button>
                                                 </h2>
 
                                                 <div id="accordionGeneralThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionGeneral">
 
                                                     <div class="accordion-body">
-                                                        <p class="large-paragraph">We have over 280+ successful projects for different companies. There are great experiences of working together with different clients all over the world.</p>
+                                                        <p class="large-paragraph text-justify">Kami memiliki lebih dari 280+ proyek sukses untuk berbagai perusahaan. Ada pengalaman hebat bekerja sama dengan klien yang berbeda di seluruh dunia.</p>
                                                     </div>
                                                 </div>
                                             </div>
@@ -244,57 +225,41 @@ https://www.tooplate.com/view/2128-tween-agency
 
         <section class="services section-padding" id="section_3">
             <div class="container">
-                <div class="row">
-
-                    <h2 class="mb-5 text-center">Digital Services</h2>
-
-                    <div class="col-lg-4 col-12 d-flex bg-primary p-0">
-                        <img src="{{ asset('assets/images/services/undraw_Online_page_re_lhgx.svg') }}" class="img-fluid services-image" alt="">
+                
+                <h2 class="text-center">Layanan Kami</h2>
+                <p class="text-center"><b>Layanan yang kita tawarkan untuk anda</p>
+                    
+                    <div class="row">
+                    <div class="col-lg-6 col-12  bg-success p-0">
+                        <div class="services-info custom-icon-top paddingText bg-success">
+                            <h4 class="text-white">Mobile Apps</h4>
+                            <img src="{{ asset('assets/images/services/mobile_platform.svg') }}" class="img-fluid services-image">                  
+                            <a class="custom-btn custom-bg-dark btn" href="#">Learn More</a>
+                        </div>
                     </div>
-
-                    <div class="col-lg-4 col-12 p-0">
-                        <div class="services-info custom-icon-left paddingText">
-
-                            <h4 class="">UI Design</h4>
-
-                            <p class="mb-4">Lorem Ipsum is simply dummy text of the printing industry</p>
+                    
+                    <div class="col-lg-6 col-12 bg-secondary p-0">
+                        <div class="services-info custom-icon-top paddingText bg-secondary ">
+                            <h4 class="text-white">Website Apps</h4>
+                            <img src="{{ asset('assets/images/services/web_interface.svg') }}" class="img-fluid services-image" alt="">
+                              <a class="custom-btn custom-bg-dark btn" href="#">Learn More</a>
+                        </div>
+                    </div>
+                    <div class="col-lg-6 col-12  bg-warning p-0">
+                        <div class="services-info custom-icon-top paddingText bg-warning ">
+                            <h4 class="text-white">AI</h4>
+                            <img src="{{ asset('assets/images/services/artificial_intelligence.svg') }}" class="img-fluid services-image" alt="">
+                            <a class="custom-btn custom-bg-dark btn" href="#">Learn More</a>
+                        </div>
+                    </div>
+                    <div class="col-lg-6 col-12  bg-danger p-0">
+                        <div class="services-info custom-icon-right paddingText bg-danger order-lg-0 order-sm-2">
+                            <h4 class="text-white">Desain Grafis</h4>
+                            <img src="{{ asset('assets/images/services/ux_design.svg') }}" class="img-fluid services-image" alt="">
 
                             <a class="custom-btn custom-bg-dark btn" href="#">Learn More</a>
                         </div>
                     </div>
-
-                    <div class="col-lg-4 col-12 d-flex bg-warning p-0">
-                        <img src="{{ asset('assets/images/services/undraw_online_transactions_02ka.svg') }}" class="img-fluid services-image" alt="">
-                    </div>
-
-                    <div class="col-lg-4 col-12 p-0 order-lg-0 order-sm-5">
-
-                        <div class="services-info custom-icon-right paddingText order-lg-0 order-sm-2">
-
-                            <h4 class="">Marketing</h4>
-
-                            <p class="mb-4">Lorem Ipsum is simply dummy text of the printing industry</p>
-
-                            <a class="custom-btn custom-bg-dark btn" href="#">Learn More</a>
-                        </div>
-                    </div>
-
-                    <div class="col-lg-4 col-12 d-flex bg-success p-0 order-lg-0 order-sm-4">
-                        <img src="{{ asset('') }}assets/images/services/undraw_content_team_3epn.svg" class="img-fluid services-image" alt="">
-                    </div>
-
-                    <div class="col-lg-4 col-12 p-0">
-
-                        <div class="services-info custom-icon-top paddingText">
-
-                            <h4 class="">Ecommerce</h4>
-
-                            <p class="mb-4">Lorem Ipsum is simply dummy text of the printing industry</p>
-
-                            <a class="custom-btn custom-bg-dark btn" href="#">Learn More</a>
-                        </div>
-                    </div>
-
                 </div>
             </div>
         </section>
@@ -309,29 +274,55 @@ https://www.tooplate.com/view/2128-tween-agency
                     <div class="col-lg-4 col-12">
                         <div class="work-thumb mb-4">
                             <div class="work-image-wrap">
-                                <a href="{{ asset('assets/images/work/anthony-espinosa-pYQSM-p_0_c-unsplash.jpg') }}" class="image-popup">
-                                    <img src="{{ asset('assets/images/work/anthony-espinosa-pYQSM-p_0_c-unsplash.jpg') }}" class="img-fluid work-image" alt="">
+                                <a href="{{ asset('assets/images/work/1.jpg') }}" class="image-popup">
+                                    <img src="{{ asset('assets/images/work/1.jpg') }}" class="img-fluid work-image" alt="">
                                 </a>
                             </div>
 
                             <div class="work-text-info">
-                                <small class="work-tag bg-white shadow-lg">Art Direction</small>
+                                <small class="work-tag bg-white shadow-lg">Sistem Cerdas</small>
 
-                                <h4 class="work-title">Simple Burger</h4>
+                                <h4 class="work-title">Machine Learning</h4>
                             </div>
                         </div>
 
                         <div class="work-thumb mb-4">
                             <div class="work-image-wrap">
-                                <a href="{{ asset('assets/images/work/samantha-gades-lf2pD--wIUA-unsplash.jpg') }}" class="image-popup">
-                                    <img src="{{ asset('assets/images/work/samantha-gades-lf2pD--wIUA-unsplash.jpg') }}" class="img-fluid work-image" alt="">
+                                <a href="{{ asset('assets/images/work/2.jpg') }}" class="image-popup">
+                                    <img src="{{ asset('assets/images/work/2.jpg') }}" class="img-fluid work-image" alt="">
                                 </a>
                             </div>
 
                             <div class="work-text-info">
-                                <small class="work-tag bg-white shadow-lg">Design</small>
+                                <small class="work-tag bg-white shadow-lg">Website</small>
 
-                                <h4 class="work-title">Fitness</h4>
+                                <h4 class="work-title">Pembayaran SPP</h4>
+                            </div>
+                        </div>
+                        <div class="work-thumb mb-4">
+                            <div class="work-image-wrap">
+                                <a href="{{ asset('assets/images/work/5.jpg') }}" class="image-popup">
+                                    <img src="{{ asset('assets/images/work/5.jpg') }}" class="img-fluid work-image" alt="">
+                                </a>
+                            </div>
+
+                            <div class="work-text-info">
+                                <small class="work-tag bg-white shadow-lg">Website</small>
+
+                                <h4 class="work-title">Company Profil</h4>
+                            </div>
+                        </div>
+                        <div class="work-thumb mb-4">
+                            <div class="work-image-wrap">
+                                <a href="{{ asset('assets/images/work/10.jpg') }}" class="image-popup">
+                                    <img src="{{ asset('assets/images/work/10.jpg') }}" class="img-fluid work-image" alt="">
+                                </a>
+                            </div>
+
+                            <div class="work-text-info">
+                                <small class="work-tag bg-white shadow-lg">Sistem Cerdas</small>
+
+                                <h4 class="work-title">Klasifikasi</h4>
                             </div>
                         </div>
                     </div>
@@ -339,56 +330,126 @@ https://www.tooplate.com/view/2128-tween-agency
                     <div class="col-lg-4 col-12">
                         <div class="work-thumb mb-4">
                             <div class="work-image-wrap">
-                                <a href="{{ asset('assets/images/work/business-chart-visual-graphics-report-concept.jpg') }}" class="image-popup">
-                                    <img src="{{ asset('assets/images/work/business-chart-visual-graphics-report-concept.jpg') }}" class="img-fluid work-image" alt="">
+                                <a href="{{ asset('assets/images/work/3.jpg') }}" class="image-popup">
+                                    <img src="{{ asset('assets/images/work/3.jpg') }}" class="img-fluid work-image" alt="">
+                                </a>
+                            </div>
+
+                            <div class="work-text-info">
+                                <small class="work-tag bg-white shadow-lg">Website</small>
+
+                                <h4 class="work-title">TOEFL</h4>
+                            </div>
+                        </div>
+
+                        <div class="work-thumb mb-4">
+                            <div class="work-image-wrap">
+                                <a href="{{ asset('assets/images/work/4.jpg') }}" class="image-popup">
+                                    <img src="{{ asset('assets/images/work/4.jpg') }}" class="img-fluid work-image" alt="">
+                                </a>
+                            </div>
+
+                            <div class="work-text-info">
+
+                                <small class="work-tag bg-white shadow-lg">Website</small>
+
+                                <h4 class="work-title">Sistem Akademik</h4>
+                            </div>
+                        </div>
+
+                        <div class="work-thumb mb-4">
+                            <div class="work-image-wrap">
+                                <a href="{{ asset('assets/images/work/6.jpg') }}" class="image-popup">
+                                    <img src="{{ asset('assets/images/work/6.jpg') }}" class="img-fluid work-image" alt="">
+                                </a>
+                            </div>
+
+                            <div class="work-text-info">
+                               
+
+                                <small class="work-tag bg-white shadow-lg">Website</small>
+
+                                <h4 class="work-title">Absensi</h4>
+                            </div>
+                        </div>
+
+                        <div class="work-thumb mb-4">
+                            <div class="work-image-wrap">
+                                <a href="{{ asset('assets/images/work/11.jpg') }}" class="image-popup">
+                                    <img src="{{ asset('assets/images/work/11.jpg') }}" class="img-fluid work-image" alt="">
+                                </a>
+                            </div>
+
+                            <div class="work-text-info">
+                                
+                                <small class="work-tag bg-white shadow-lg">Website</small>
+
+                                <h4 class="work-title">PMB</h4>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4 col-12">
+                        <div class="work-thumb mb-4">
+                            <div class="work-image-wrap">
+                                <a href="{{ asset('assets/images/work/7.jpg') }}" class="image-popup">
+                                    <img src="{{ asset('assets/images/work/7.jpg') }}" class="img-fluid work-image" alt="">
                                 </a>
                             </div>
 
                             <div class="work-text-info">
                                 <small class="work-tag bg-white shadow-lg">Web Development</small>
 
-                                <h4 class="work-title">Data Science</h4>
+                                <h4 class="work-title">Try Out</h4>
                             </div>
                         </div>
 
                         <div class="work-thumb mb-4">
                             <div class="work-image-wrap">
-                                <a href="{{ asset('assets/images/work/tyler-nix-HmVQh_EQJhY-unsplash.jpg') }}" class="image-popup">
-                                    <img src="{{ asset('assets/images/work/tyler-nix-HmVQh_EQJhY-unsplash.jpg') }}" class="img-fluid work-image" alt="">
+                                <a href="{{ asset('assets/images/work/8.png') }}" class="image-popup">
+                                    <img src="{{ asset('assets/images/work/8.png') }}" class="img-fluid work-image" alt="">
                                 </a>
                             </div>
 
                             <div class="work-text-info">
                                 <small class="work-tag bg-white shadow-lg">Branding</small>
 
-                                <small class="work-tag bg-white shadow-lg">Graphic Design</small>
+                                <small class="work-tag bg-white shadow-lg">Web Development</small>
 
-                                <h4 class="work-title">Health</h4>
+                                <h4 class="work-title">Try Out SNBT</h4>
                             </div>
                         </div>
-                    </div>
 
-                    <div class="col-lg-4 col-12">
                         <div class="work-thumb mb-4">
                             <div class="work-image-wrap">
-                                <a href="{{ asset('assets/images/work/mos-sukjaroenkraisri-jz8AmJDyhig-unsplash.jpg') }}" class="image-popup">
-                                    <img src="{{ asset('assets/images/work/mos-sukjaroenkraisri-jz8AmJDyhig-unsplash.jpg') }}" class="img-fluid work-image" alt="">
+                                <a href="{{ asset('assets/images/work/9.jpg') }}" class="image-popup">
+                                    <img src="{{ asset('assets/images/work/9.jpg') }}" class="img-fluid work-image" alt="">
                                 </a>
                             </div>
 
                             <div class="work-text-info">
-                                <small class="work-tag bg-white shadow-lg">Photography</small>
+                                <small class="work-tag bg-white shadow-lg">Website</small>
 
-                                <h4 class="work-title">Portraits</h4>
+                                <h4 class="work-title">Kriptografi</h4>
                             </div>
                         </div>
+                        
+                        <div class="work-thumb mb-4">
+                            <div class="work-image-wrap">
+                                <a href="{{ asset('assets/images/work/12.jpg') }}" class="image-popup">
+                                    <img src="{{ asset('assets/images/work/12.jpg') }}" class="img-fluid work-image" alt="">
+                                </a>
+                            </div>
 
-                        <div class="work-thumb work-thumb-text">
-                            <div class="">
-                                <p class="work-title">If you are interested in working together, Say Hi at <strong><a href="#">hi@company.com</a></strong></p>
+                            <div class="work-text-info">
+                                <small class="work-tag bg-white shadow-lg">Website</small>
+
+                                <h4 class="work-title">Dunia Kita Cafe Resto</h4>
                             </div>
                         </div>
                     </div>
+
+                    
 
                 </div>
             </div>
@@ -526,63 +587,44 @@ https://www.tooplate.com/view/2128-tween-agency
     <footer class="site-footer">
         <div class="container">
             <div class="row">
-
-                <div class="col-lg-5 col-12 me-auto mb-4">
-                    <h5 class="text-white mb-3">Newsletter</h5>
-
-                    <form class="custom-form subscribe-form mt-4" role="form">
-                        <div class="row">
-                            <div class="col-lg-8 col-md-8 col-7">
-                                <input type="email" name="subscribe-email" id="subscribe-email" pattern="[^ @]*@[^ @]*" class="form-control" placeholder="Your email address" required="">
-                            </div>
-
-                            <div class="col-lg-4 col-md-4 col-5">
-                                <button type="submit" class="form-control" id="subscribe">Subscribe</button>
-                            </div>
-
-                        </div>
-                    </form>
-                </div>
-
                 <div class="col-lg-2 col-12 mx-auto my-lg-0 my-4">
-                    <h5 class="text-white mb-3">Services</h5>
+                    <h5 class="text-white mb-3">Layanan</h5>
 
                     <ul class="footer-menu">
-                        <li class="footer-menu-item"><a href="#" class="footer-menu-link">Digital Marketing</a></li>
+                        <li class="footer-menu-item"><a href="#" class="footer-menu-link">Mobile Apps</a></li>
 
-                        <li class="footer-menu-item"><a href="#" class="footer-menu-link">Creative Ideas</a></li>
+                        <li class="footer-menu-item"><a href="#" class="footer-menu-link">Web Apps</a></li>
 
-                        <li class="footer-menu-item"><a href="#" class="footer-menu-link">Branding</a></li>
+                        <li class="footer-menu-item"><a href="#" class="footer-menu-link">Artifical Intelligenci</a></li>
 
-                        <li class="footer-menu-item"><a href="#" class="footer-menu-link">Video Contents</a></li>
+                        <li class="footer-menu-item"><a href="#" class="footer-menu-link">Desain Grafis</a></li>
                     </ul>
                 </div>
 
                 <div class="col-lg-2 col-12">
                     <h5 class="text-white mb-3">Say Hi</h5>
 
-                    <p class="text-white mb-1">Sunderland SR6 0JL, United Kingdom</p>
+                    <p class="text-white mb-1">Jl. Tarudan Widoro, Mredo, Bangunharjo, Kec. Sewon, Kabupaten Bantul, Daerah Istimewa Yogyakarta 55188</p>
 
-                    <p><a href="mailto:email@company.com" class="footer-link">email@company.com</a>
+                    <p><a href="mailto:eastbluetech@gmail.com" class="footer-link">eastbluetech@gmail.com</a>
                         <p>
                 </div>
 
-                <div class="site-footer-bottom mt-5">
-                    <div class="row pt-4">
+                <div class="site-footer-bottom mt-2">
+                    <div class="row pt-3">
                         <div class="col-lg-6 col-12">
-                            <p class="copyright-text tooplate-link">Copyright © 2022 Tween Agency Co., Ltd.
-                                <br>Design: <a rel="nofollow" href="https://www.tooplate.com/" target="_blank">Tooplate</a></p>
+                            <p class="copyright-text tooplate-link">Copyright © 2023 .
                         </div>
 
                         <div class="col-lg-3 col-12 ms-auto">
                             <ul class="social-icon">
-                                <li><a href="#" class="social-icon-link bi-facebook"></a></li>
+                                <li><a target="_blank" href="https://facebook.com/ebtTekno" class="social-icon-link bi-facebook"></a></li>
 
-                                <li><a href="https://twitter.com/search?q=tooplate" class="social-icon-link bi-twitter"></a></li>
+                                {{-- <li><a href="https://twitter.com/search?q=tooplate" class="social-icon-link bi-twitter"></a></li> --}}
 
-                                <li><a href="#" class="social-icon-link bi-instagram"></a></li>
+                                <li><a target="_blank" href="https://www.instagram.com/eastbluetech_/" class="social-icon-link bi-instagram"></a></li>
 
-                                <li><a href="#" class="social-icon-link bi-linkedin"></a></li>
+                                <li><a target="_blank" href="https://wa.me/6288298864380" class="social-icon-link bi-whatsapp"></a></li>
 
                                 <li><a href="#" class="social-icon-link bi-youtube"></a></li>
                             </ul>
@@ -603,5 +645,9 @@ https://www.tooplate.com/view/2128-tween-agency
     <script src="{{ asset('assets/js/magnific-popup-options.js') }}"></script>
     <script src="{{ asset('') }}"></script>
     <script src="{{ asset('assets/js/custom.js') }}"></script>
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+    <script>
+  AOS.init({duration: 1200});
+</script>
 </body>
 </html>

@@ -349,3 +349,18 @@ img.mfp-img {
   .mfp-container {
     padding-left: 6px;
     padding-right: 6px; } }
+
+    * {
+      box-sizing: border-box;
+    }
+    
+    .item {
+      width: 200px;
+      height: 200px;
+      margin: 50px auto;
+      padding-top: 75px;
+      background: #ccc;
+      text-align: center;
+      color: #FFF;
+      font-size: 3em;
+    }
