@@ -627,7 +627,7 @@ https://www.tooplate.com/view/2128-tween-agency
 
                                 <li><a target="_blank" href="https://wa.me/6288298864380" class="social-icon-link bi-whatsapp"></a></li>
 
-                                < <li><a href="mailto:eastbluetech@gmail.com" class="social-icon-link bi-envelope"></a></li>
+                                <li><a href="mailto:eastbluetech@gmail.com" class="social-icon-link bi-envelope"></a></li>
 
                             </ul>
                         </div>
